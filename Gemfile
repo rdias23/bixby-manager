@@ -99,7 +99,7 @@ gem 'bixby-api_pool', :github => 'chetan/bixby-api_pool'
 
 # uncomment if using mongo for metrics storage
 # warning: you *really* shouldn't use this in production
-# gem 'mongoid', "~> 4.0"
+gem 'mongoid', "~> 4.0"
 
 
 group :assets do
